@@ -1,0 +1,12 @@
+{
+  "block.endercage.endercage" : "末影笼",
+  "text.endercage.yes": "启用",
+  "text.endercage.no": "禁用",
+  "text.endercage.silent": "静音",
+  "text.endercage.capturedentity": "捕获实体",
+  "text.endercage.noentity": "<无>",
+  "text.endercage.command.empty": "这是末影笼模组的基础命令！\n使用 \"/endercage [类别]\" 获取更多关于某个具体内容的信息。\n将鼠标悬停在笼子物品上，或右键点击放置的笼子（空手）以获取更多信息。\n可用的参数：",
+  "text.endercage.command.redstone": "末影笼有很多红石功能，即使它不能被活塞推动。\n> 比较器：\n- 如果笼子内有实体，连接的比较器会输出强度为 15 的信号。空笼子则不输出信号。\n> 音符盒：\n- 如果音符盒被放置在包含生物的笼子上方，它将播放该生物的环境音效。\n> 末影笼本身：\n- 如果笼子上方的方块不是完整方块，并且笼子被激活，它将释放其中的生物，或者捕捉上方的生物。\n- 如果上方是另一个笼子，它将把包含的实体转移到上方的笼子，或者取走它。",
+  "text.endercage.command.silence": "末影笼会偶尔播放被捕获生物的环境音效。\n你可以修改笼子来停止播放声音，或再次播放声音。\n使用羽毛对笼子进行静音，使用音符盒恢复声音。\n这些操作不会影响放置在上方的音符盒。",
+  "text.endercage.command.display": "你可以通过将捕获的实体放入物品框中来展示它们。如果物品框朝上放置，实体则会正常站立在上面。"
+}
